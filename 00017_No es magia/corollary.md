@@ -1,0 +1,1 @@
+Hay muchas páginas de Internet que te permiten averiguar tanto la dirección IP de tu computadora como de cualquier página que quieras. :sunglasses:

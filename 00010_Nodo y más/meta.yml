@@ -1,0 +1,22 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Por quién es el dueño del dispositivo
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Por el modelo del dispositivo
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Por un identificador único
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Por el tiempo que pasó desde que se conectó en la red
+  checked: false
+name: Nodo y más

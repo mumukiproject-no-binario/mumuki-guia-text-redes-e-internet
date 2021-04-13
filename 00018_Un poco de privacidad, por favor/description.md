@@ -1,0 +1,3 @@
+Ya te contamos que las direcciones IP no pueden repetirse, entonces ¿cómo se hace para saber qué direcciones están disponibles en el momento de conectarse a una red? En una LAN es simple por su alcance: uno cuenta los dispositivos, asigna un número para cada uno y eso es todo. Ese número es la dirección IP _privada_ de cada computadora :computer: :iphone:, y es única por cada red local :house_with_garden:; esto significa que dos computadoras pueden tener la misma dirección IP privada siempre que se encuentren en LANs distintas.
+
+¿Pero cómo elegir entre las millones de computadoras... mejor dicho, nodos que hay en internet? :thought_balloon:

@@ -1,0 +1,19 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: También son cables finos y cortos
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Son cables de gran grosor que están debajo de los océanos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Son cables que están en el cielo conectados a puntos estratégicos en la superficie
+  checked: false
+name: Internet que podemos tocar

@@ -1,0 +1,25 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: los booleanos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: los números
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: un DVD
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: las fotos de las redes sociales
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: un mouse
+  checked: false
+name: Demasiada información

@@ -1,0 +1,22 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Una red que conecta la computadora de la oficina de Alicia con la de la contadora
+    que trabaja en ese edificio
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Una red que conecta la computadora de la oficina de Alicia con la compu de
+    escritorio de Ale
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Una red que conecta la computadora de la oficina de Alicia con la computadora
+    de Gerencia en Italia
+  checked: false
+name: Obi WAN Kenobi

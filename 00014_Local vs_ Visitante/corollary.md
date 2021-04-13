@@ -1,0 +1,1 @@
+¡Obvio que podemos conectar computadoras que se encuentran en áreas grandes! Sin embargo, como te contamos, la L en LAN significa… ¡Local!. ¿Y si conectamos muchas redes LAN entre ellas? :smirk:

@@ -1,0 +1,1 @@
+¡Muy bien! No todas las actividades que realizamos en la computadora tienen que ver con internet. De hecho desconectá tu computadora de internet y fijate cuántas cosas podés hacer con ella. :smirk:

@@ -1,0 +1,1 @@
+Internet es una red de redes que te permite realizar muchas actividades como escuchar música :notes:, subir fotos a tu red social favorita :camera:, o aprender con Mumuki ム.

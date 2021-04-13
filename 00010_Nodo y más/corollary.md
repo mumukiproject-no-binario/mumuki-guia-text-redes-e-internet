@@ -1,0 +1,1 @@
+La identificación de nodos es similar a cuando hacemos una llamada telefónica :telephone_receiver:, en la cual sabemos el número al cual queremos comunicarnos. Si hubiese dos números iguales ¿cómo sabríamos a quién estamos llamando? :thought_balloon:

@@ -1,0 +1,23 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Porque todas las canciones son del viento
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Porque viene descargada en su computadora y Ale no lo sabe
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Porque Ale tiene acceso a Internet, y la música se transfirió desde la computadora
+    de Espótifai hasta la suya
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No es posible, ¡un hechicero lo hizo!
+  checked: false
+name: Melomanía

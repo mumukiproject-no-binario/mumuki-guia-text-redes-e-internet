@@ -1,0 +1,5 @@
+Hay servicios que verifican direcciones que estén disponibles y te asignan una dirección IP _pública_, automáticamente, antes de que accedas a internet . Esa dirección es tuya mientras estés enviando y recibiendo datos, pero al momento de desconectarse la perdés :scream:, y vuelve a estar disponible para otros nodos. Pero no desesperes, la próxima vez que te conectes vas a recibir otra y eso es lo que se llama dirección IP dinámica. :sunglasses:
+
+Por el otro lado, si la dirección IP cambia todo el tiempo ¿cómo se pueden acceder siempre a los mismos sitios con el mismo dominio? Bueno, hay servicios que permiten “alquilar” una dirección IP pública que se va a mantener siempre igual (siempre y cuando se pague el servicio :moneybag:) y es a lo que se llama dirección IP fija.
+
+> Tocá los botones nuevamente en distintos días o desde distintos dispositivos y fijate: ¿cambió la dirección IP de Mumuki? ¿Y la tuya? :open_mouth:

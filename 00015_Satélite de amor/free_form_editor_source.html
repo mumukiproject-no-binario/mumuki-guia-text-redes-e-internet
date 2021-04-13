@@ -1,0 +1,21 @@
+<button type="button" class="btn btn-info" onclick="getPing()">Obtener tiempo</button>
+<div class="form-horizontal">
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-addon">Tiempo</div>
+      <input id="ping_time" name="ping_time" type="text" class="form-control mu-free-form-input" placeholder="Milisegundos">
+    </div>
+  </div>
+</div>
+
+<script>
+function getPing() {
+  var start_time = new Date().getTime();
+  $.get("https://api.ipify.org/?format=json", function(data) {
+    $(".result").html(data);
+    var request_time = new Date().getTime() - start_time;
+    $("#ping_time").val(request_time + " ms");
+    $('#ping_time.mu-free-form-input').change();
+  });
+}
+</script>
